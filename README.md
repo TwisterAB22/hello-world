@@ -3,7 +3,7 @@ First reposit! (duh...)
 
 Testing branch.
 
-Testing **branch** from VS!
+Testing _branch_ from VS!
 
 Modifying from VS Code. **Again.**
 
